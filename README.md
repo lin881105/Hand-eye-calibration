@@ -8,4 +8,4 @@ spacemouse control https://github.com/franzesegiovanni/franka_human_friendly_con
 
 #visualize scene and pose for validation
 
-![render](Screenshot from 2022-09-02 13-44-10.png)
+![render](render.png)
